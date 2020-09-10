@@ -23,6 +23,7 @@ a:hover {
   background-color: #1abc9c;
   height: 150px;
   line-height: 150px;
+  padding: 30px;
 }
 
 #header a {
@@ -61,7 +62,7 @@ a:hover {
 
 #footer {
   background-color: #2f2f2f;
-  padding: 50px 0;
+  padding: 50px;
 }
 
 #footer h4 {
